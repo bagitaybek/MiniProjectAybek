@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BITLAB:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f4c0fde-4e9b-42ed-8e8c-72109fbd19d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1fUUaLdY3AsbvchZ6O4j61e9DeZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/sqlite-jdbc-3.34.0.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Lesson8" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bagit\project\src\Tickets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="BITLAB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson" />
+      <module name="BITLAB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BITLAB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="BITLAB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Lesson" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Lesson" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f4c0fde-4e9b-42ed-8e8c-72109fbd19d0" name="Default Changelist" comment="" />
+      <created>1596272226439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596272226439</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="0" key="#Auto_Import" timestamp="1616240977836">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="0" key="#Auto_Import/0.0.1366.728@0.0.1366.728" timestamp="1616240977836" />
+    <state x="133" y="0" width="1099" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615895183505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="133" y="0" width="1099" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1615895183505" />
+    <state x="47" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1616489817376">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="47" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1616489817376" />
+    <state x="350" y="54" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615291641600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="54" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1615291641600" />
+    <state x="319" y="81" key="FileChooserDialogImpl" timestamp="1616070308986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="319" y="81" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616070308986" />
+    <state width="1311" height="237" key="GridCell.Tab.0.bottom" timestamp="1616489846068">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="237" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616489846068" />
+    <state width="1311" height="237" key="GridCell.Tab.0.center" timestamp="1616489846066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="237" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616489846066" />
+    <state width="1311" height="237" key="GridCell.Tab.0.left" timestamp="1616489846066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="237" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616489846066" />
+    <state width="1311" height="237" key="GridCell.Tab.0.right" timestamp="1616489846066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="237" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616489846066" />
+    <state width="1311" height="250" key="GridCell.Tab.1.bottom" timestamp="1616481035687">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="250" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616481035687" />
+    <state width="1311" height="250" key="GridCell.Tab.1.center" timestamp="1616481035685">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="250" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1616481035685" />
+    <state width="1311" height="250" key="GridCell.Tab.1.left" timestamp="1616481035684">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="250" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1616481035684" />
+    <state width="1311" height="250" key="GridCell.Tab.1.right" timestamp="1616481035686">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="250" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1616481035686" />
+    <state x="70" y="0" key="SettingsEditor" timestamp="1616070312079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="70" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616070312079" />
+    <state x="115" y="0" width="1136" height="728" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1614602006651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="0" width="1136" height="728" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1614602006651" />
+    <state x="0" y="0" key="new project wizard" timestamp="1608964012947">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1608964012947" />
+    <state x="255" y="159" key="run.anything.popup" timestamp="1615983428651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="255" y="159" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1615983428651" />
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup" timestamp="1616244224629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1616244224629" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.OptionalDataException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.net.SocketException" package="java.net" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
